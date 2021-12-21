@@ -1,3 +1,10 @@
+# 1.0.0 (2021-12-21)
+
+
+### Bug Fixes
+
+* Initial release ([#1](https://github.com/swarm-io/release-config-general/issues/1)) ([73329a4](https://github.com/swarm-io/release-config-general/commit/73329a482327f111c8e1e0fb618616d2c362d49c))
+
 # 1.0.0 (2021-12-18)
 
 
