@@ -4,9 +4,6 @@ module.exports = {
     ],
     "ci": false,
     "plugins": [
-        ["@semantic-release/exec", {
-            "prepareCmd": "echo \"success\""
-        }],
         ["@semantic-release/commit-analyzer", {
             "preset":  "conventionalcommits",
             "releaseRules": [
@@ -22,4 +19,3 @@ module.exports = {
         "@semantic-release/github"
     ]
 }
-//
